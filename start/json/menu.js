@@ -12,9 +12,13 @@
       ,"title": "主页一"
       ,"jump": "home/homepage1"
     }, {
-      "name": "homepage2"
+      "name": "homepage1"
       ,"title": "主页二"
       ,"jump": "home/homepage2"
+    }, {
+      "name": "import"
+      ,"title": "数据导入"
+      ,"jump": "home/import"
     }]
   }, {
     "name": "component"
